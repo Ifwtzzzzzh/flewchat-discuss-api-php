@@ -4,35 +4,11 @@ FlewChat, often dubbed as the "Telegram clone," is a messaging app that effortle
 
 # Preview
 
-![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled.png)
+| ![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled.png) | ![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%201.png) | ![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%202.png) | ![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%203.png) |
+| ----------- | ----------- | ----------- | ----------- |
+| ![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%204.png) | ![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%205.png) | ![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%206.png) | ![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%207.png) |
+| ![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%207.png) | ![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%208.png) | ![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%209.png) | ![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%2010.png) |
 
-![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%201.png)
-
-![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%202.png)
-
-![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%203.png)
-
-![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%204.png)
-
-![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%205.png)
-
-![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%206.png)
-
-![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%207.png)
-
-![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%208.png)
-
-![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%209.png)
-
-![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%2010.png)
-
-![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%2011.png)
-
-![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%2012.png)
-
-![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%2013.png)
-
-![Untitled](FlewChat%20-%20Discuss%20App%202d652c2e88274ddfbda4b1e3eaf54fa1/Untitled%2014.png)
 
 # Use Case
 
