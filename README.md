@@ -1,4 +1,4 @@
-🥨 # FlewChat - Discuss App
+# 🥨 FlewChat - Discuss App
 
 FlewChat, often dubbed as the "Telegram clone," is a messaging app that effortlessly mirrors the functionality and features of Telegram. With its intuitive interface, encrypted communication, and a commitment to user privacy, FlewChat ensures a seamless transition for Telegram users while offering a trusted alternative for those seeking secure, versatile, and user-friendly messaging.
 
